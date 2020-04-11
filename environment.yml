@@ -1,6 +1,6 @@
 name: suckit
 channels:
-pyviz
+conda-forge
 dependencies:
 jupyter_panel_proxy
 python=3.7.6
