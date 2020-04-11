@@ -152,7 +152,6 @@ dependencies:
   - pysocks=1.7.1=py37_0
   - python=3.7.6=h60c2a47_2
   - python-dateutil=2.8.1=py_0
-  - python-levenshtein=0.12.0=py37h8055547_1002
   - python-snappy=0.5.4=py37ha925a31_0
   - python_abi=3.7=1_cp37m
   - pytz=2019.3=py_0
