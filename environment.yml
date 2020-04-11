@@ -1,3 +1,4 @@
+name: suckit
 channels:
 - conda-forge
 dependencies:
