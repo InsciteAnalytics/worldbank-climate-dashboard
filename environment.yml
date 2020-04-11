@@ -1,11 +1,11 @@
 name: suckit
 channels:
-  - pyviz
+pyviz
 dependencies:
-  - jupyter_panel_proxy
-  - python=3.7.6
-  - asn1crypto=1.3.0=py37_0
-  - attrs=19.3.0=py_0
+jupyter_panel_proxy
+python=3.7.6
+asn1crypto=1.3.0=py37_0
+attrs=19.3.0=py_0
 backcall=0.1.0=py37_0
 blas=1.0=mkl
 bleach=3.1.0=py_0
