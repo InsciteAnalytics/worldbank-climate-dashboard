@@ -1,1 +1,0 @@
-web: panel serve --address="0.0.0.0" --port=$PORT Wb-Db-2.ipynb --allow-websocket-origin=worldbank-climate-dashboard.herokuapp.com
