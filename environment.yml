@@ -4,6 +4,7 @@ channels:
   - pyviz
   - defaults
 dependencies:
+  - jupyter_panel_proxy
   - asn1crypto=1.3.0=py37_0
   - attrs=19.3.0=py_0
   - backcall=0.1.0=py37_0
