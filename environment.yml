@@ -52,7 +52,7 @@ dependencies:
   - holoviews=1.13.2
   - holoviz=0.11.3
   - hvplot=0.5.2
-  - icc_rt=2019.0.0
+  - icc_rt
   - icu=58.2
   - idna=2.8
   - imageio=2.6.1
@@ -91,11 +91,11 @@ dependencies:
   - llvmlite=0.31.0
   - locket=0.2.0
   - lxml=4.5.0
-  - m2w64-gcc-libgfortran=5.3.0
-  - m2w64-gcc-libs=5.3.0
-  - m2w64-gcc-libs-core=5.3.0
-  - m2w64-gmp=6.1.0
-  - m2w64-libwinpthread-git=5.0.0.4634.697f757
+  - m2w64-gcc-libgfortran
+  - m2w64-gcc-libs
+  - m2w64-gcc-libs-core
+  - m2w64-gmp
+  - m2w64-libwinpthread-git
   - markdown=3.1.1
   - markupsafe=1.1.1
   - matplotlib=3.0.3
@@ -106,7 +106,7 @@ dependencies:
   - mkl_fft=1.0.15
   - mkl_random=1.1.0
   - msgpack-python=0.6.1
-  - msys2-conda-epoch=20160418
+  - msys2-conda-epoch
   - multipledispatch=0.6.0
   - munch=2.5.0
   - nbconvert=5.6.1
@@ -157,8 +157,8 @@ dependencies:
   - pytz=2019.3
   - pyviz_comms=0.7.4
   - pywavelets=1.1.1
-  - pywin32=227
-  - pywinpty=0.5.7
+  - pywin32
+  - pywinpty
   - pyyaml=5.3
   - pyzmq=18.1.1
   - qt=5.9.7
@@ -189,15 +189,15 @@ dependencies:
   - traitlets=4.3.3
   - typing_extensions=3.7.4.1
   - urllib3=1.25.8
-  - vc=14.1
-  - vs2015_runtime=14.16.27012
+  - vc
+  - vs2015_runtime
   - wcwidth=0.1.8
   - webencodings=0.5.1
   - wheel=0.34.2
   - widgetsnbextension=3.5.1
-  - win_inet_pton=1.1.0
-  - wincertstore=0.2
-  - winpty=0.4.3
+  - win_inet_pton
+  - wincertstore
+  - winpty
   - xarray=0.11.3
   - xerces-c=3.2.2
   - xz=5.2.4
