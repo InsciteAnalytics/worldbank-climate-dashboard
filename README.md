@@ -10,3 +10,4 @@ Instructions on navigating the dashboard:
 2. Each country has a diamond marker at its centre; data for that country can be accessed by clicking that marker.
 3. The top plot in the right column of the dashboard will always display the yearly average temperature of the selected country.
 4. The bottom plot can be selected by using the dropdown menu; it contains several economic/social indicators from the World Bank's Indicators API.
+5. Use the bar to the right of the plots for toggling options such as hover, tap, zoom in and out etc. 
